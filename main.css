@@ -50,8 +50,13 @@ header{
 }
 
 .paragraph-styling {
-    margin: 0;
-    cursor: pointer;
-    font-size: 20px;
+        height: 45px;
+        width:350px;
+        cursor:pointer;
+        font-size:28px;
+        text-align: center;
+        background-color:  rgb(81, 150, 2);
+        color:rgb(8, 3, 3);
+        font-family: "Trebuchet MS", sans-serif;
 }
 
